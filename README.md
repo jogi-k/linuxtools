@@ -9,3 +9,9 @@ Collection of usefull Linux-Tools,, which I tend to forget about ...
 ## The one and only grep
 
 * ag (silversurfer)
+
+## Movies
+
+* Cut movies : Openshot
+* Pictures to movies with Ken Burns Effect : PhotoFilmStrip
+* Screencast : vokoscreen
