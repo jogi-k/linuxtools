@@ -8,7 +8,7 @@ Collection of usefull Linux-Tools,, which I tend to forget about ...
 
 ## The one and only grep
 
-* ag (silversurfer)
+* ag (silversearcher)
 
 ## Movies
 
