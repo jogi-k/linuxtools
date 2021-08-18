@@ -21,4 +21,8 @@ Collection of usefull Linux-Tools,, which I tend to forget about ...
 * dvdbackup -M -i /dev/sr0
 * mkisofs -dvd-video -udf -o dvd.iso  <Dir-Name>
   
+## System-Info
+
+* neofetch
+  
   
